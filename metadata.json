@@ -1,0 +1,8 @@
+{
+  "name": "IA na Educação - Módulo 2: IA Generativa e Prompts",
+  "description": "Curso interativo de Inteligência Artificial na Educação para formação de professores: IA Generativa, Ciclo de Funcionamento, Técnicas de Prompts, Simuladores, Quizzes e Atividades Práticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
